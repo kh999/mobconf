@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>PayloadContent</key>
+        <array>
+                <dict>
+                        <key>AutoJoin</key>
+                        <true/>
+                        <key>EncryptionType</key>
+                        <string>WPA</string>
+                        <key>HIDDEN_NETWORK</key>
+                        <false/>
+                        <key>IsHotspot</key>
+                        <false/>
+                        <key>PayloadDisplayName</key>
+                        <string>Wi-Fi</string>
+                        <key>PayloadIdentifier</key>
+                        <string>com.example.wifi</string>
+                        <key>PayloadType</key>
+                        <string>com.apple.wifi.managed</string>
+                        <key>PayloadUUID</key>
+                        <string>YOUR-UNIQUE-ID</string>
+                        <key>PayloadVersion</key>
+                        <integer>1</integer>
+                        <key>SSID_STR</key>
+                        <string>Paragraph1702</string>
+                        <key>ProxyType</key>
+                        <string>None</string>
+                        <key>SetupModes</key>
+                        <array>
+                                <string>SEPARATE</string>
+                                <string>SYSTEM</string>
+                        </array>
+                        <key>TrustedServerNames</key>
+                        <array/>
+                        <key>WiFiPassword</key>
+                        <string>Coworkinglife$</string>
+                </dict>
+        </array>
+        <key>PayloadDisplayName</key>
+        <string>YOUR-WIFI-NAME</string>
+        <key>PayloadIdentifier</key>
+        <string>com.example.wifi</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>YOUR-UNIQUE-ID</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+</dict>
+</plist>
+
